@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace TravelOOP.Tests
 {
+    //Maggie, Tim, Ken Homework due 10/8/2018
     [TestFixture]
     public class TravelTests
     {

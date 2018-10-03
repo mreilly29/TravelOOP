@@ -2,6 +2,7 @@
 
 namespace TravelOOP
 {
+    //Maggie, Tim, Ken Homework due 10/8/2018
     public class Travel
     {
         //properties
